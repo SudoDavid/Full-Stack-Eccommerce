@@ -18,6 +18,9 @@ I'm crying
 11. WebPack - 
 12. Prepose - 
 
+13. Docker -
+14. WSL - Linux on Windows
+
 - Components - 
 
 1. Login / Logout
